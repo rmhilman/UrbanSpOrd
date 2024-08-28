@@ -3,4 +3,4 @@ Urban spatial order reveals the logics behind accretion process measure by orien
 
 
 ### Reference:
-Boeing Applied Network Science (2019) 4:67 https://doi.org/10.1007/s41109-019-0189-1
+Boeing, G. (2019). Urban spatial order: Street network orientation, configuration, and entropy. Applied Network Science, 4(1), 1-19.
